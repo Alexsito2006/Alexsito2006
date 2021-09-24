@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexsito2006
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in ... Proggraming and Gaming
 - 🌱 I’m currently learning ... Proggrmaning
 - 💞️ I’m looking to collaborate on ...
