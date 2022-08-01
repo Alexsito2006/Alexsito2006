@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in ... Proggraming and Gaming
-- 🌱 I’m currently learning ... Proggrmaning
+- 👀 I’m interested in ... Programing and Gaming
+- 🌱 I’m currently learning ... Programing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
